@@ -1,0 +1,14 @@
+version0.2
+
+phases:
+  install:
+    commands:
+    #download nodeJS & npm
+    -curl - fsSL https://
+    #install nodeJS & npm
+  pre_build:
+    #install the react/NodeJS dependancies
+  build:
+    #transform reactJS code to static html/js/css
+artifacts:
+  files:
